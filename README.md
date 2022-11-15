@@ -27,6 +27,7 @@ utilizadas.
 <img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <br />
 
+---
 ## 🧰 Ferramentas
 
 <img align="left" alt="VsCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />

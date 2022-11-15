@@ -2,7 +2,7 @@
 
 
 
-## About me
+## 👨🏻‍💻 About me
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b0366c143584307.627d06916fa75.gif" width = 500px></picture>
 
@@ -16,7 +16,7 @@
 - Personal Projects
 <br><br>
 - Self taught
-
+<br><br>
 <p align="left">
       <a href="https://www.linkedin.com/in/kauantp/">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedinout&logoColor=white"/></a> 

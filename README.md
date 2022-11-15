@@ -7,15 +7,15 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b0366c143584307.627d06916fa75.gif" width = 500px></picture>
 
 <br>
-- Control and Automation Engineer on FEI university 
+✔ Control and Automation Engineer on FEI university 
 <br><br>
-- Back-end development
+✔ Back-end development
 <br><br>
-- Academic projects
+✔ Academic projects
 <br><br>
-- Personal Projects
+✔ Personal Projects
 <br><br>
-- Self taught
+✔ Self taught
 <br><br>
 <p align="left">
       <a href="https://www.linkedin.com/in/kauantp/">

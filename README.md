@@ -11,13 +11,13 @@
 
 <br>
 - Control and Automation Engineer on FEI university 
-<br>
+<br><br>
 - Back-end development
-<br>
+<br><br>
 - Academic projects
-<br>
+<br><br>
 - Personal Projects
-<br>
+<br><br>
 - Self taught
 
 <br><br>

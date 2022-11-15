@@ -10,16 +10,12 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b0366c143584307.627d06916fa75.gif" width = 500px></picture>
 
 <br>
-Engenheiro de Controle e Automação na 
-faculdade FEI, com conhecimento
-e desenvolvimento em projetos de 
-programação das mais diversas 
-linguagens e aplicações.
-Desenvolvo meus projetos Analisando 
-os problemas e as possíveis soluções 
-para estudar o caso 
-e desenvolver as melhores opções de 
-hardware e software a serem utilizadas.
+- Control and Automation Engineer on FEI university 
+- Back-end development
+- Academic projects
+- Personal Projects
+- Self taught
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

@@ -7,7 +7,7 @@
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedinout&logoColor=white"/></a> 
    </p>
 
-<picture> <img align="right" src="https://64.media.tumblr.com/7b4391bbfed2af6764fec491eab08b57/3142cd28c78e9e5a-0d/s1280x1920/babb6de81f0f798f188e236702f9f96f598caa8e.gif" width = 250px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b0366c143584307.627d06916fa75.gif" width = 250px></picture>
 
 <br>
 Engenheiro de Controle e Automação na faculdade FEI, com conhecimento
